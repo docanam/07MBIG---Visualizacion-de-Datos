@@ -1,15 +1,18 @@
-body {
+/*body {
   background: #FFFFFF;
-}
+}*/
 
-@media print {
+/*@media print {
     .pagebreak{page-break-before: always;}
-}
+}*/
 
-h1 {
+/*h1 {
    color:#0404B4;
-}
+}*/
 
-h2 {
+/*h2 {
    color:red;
+}*/
+h1, h2 {
+  font-family: Lato;
 }

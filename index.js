@@ -1,5 +1,5 @@
 // estilos
-import './style.css'
+import './styles.css'
 
 //Grafico de columnas. Mi 1º gráfico
 var visualization = d3plus.viz()

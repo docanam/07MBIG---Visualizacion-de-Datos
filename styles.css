@@ -1,6 +1,11 @@
 body {
   background: #FFFFFF;
 }
+
 @media print {
     .pagebreack{page-break-before: always;}
+}
+
+h2 {
+   color:#FE2E2E;
 }

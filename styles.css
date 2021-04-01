@@ -6,6 +6,10 @@ body {
     .pagebreak{page-break-before: always;}
 }
 
+h1 {
+   color:#0404B4;
+}
+
 h2 {
    color:red;
 }
